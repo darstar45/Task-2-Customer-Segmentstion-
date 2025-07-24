@@ -1,1 +1,1 @@
-# Task-2-Customer-Segmentstion-
+# Task-2-Customer-Segmentation-
